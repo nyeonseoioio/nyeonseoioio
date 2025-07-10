@@ -21,6 +21,8 @@
 
 </div>
 
+---
+
 ### 🔧 Tools
 
 <p align="center">
@@ -32,6 +34,13 @@
 ---
 
 
+### 📝 Studying
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js" />
+  </a>
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeonseoioio&layout=compact)](https://github.com/nyeonseoioio/github-readme-stats)
