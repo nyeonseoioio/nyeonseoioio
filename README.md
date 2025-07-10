@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=nyeonseoioio%20github&fontSize=60)
 
-<div align=center><h1>📚 STACKS</h1></div>
+### 📚 STACKS
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -20,9 +20,8 @@
   <br>
 
 </div>
-----
 
-<div align=center><h1>🔧 Tools</h1></div>
+### 🔧 Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
