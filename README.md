@@ -2,13 +2,13 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=nyeonseoioio%20github&fontSize=60)
 
 
-### 👩🏻‍💻 Stack 
+### 🔧 language * Tools
 
 ----
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord, figma,github,vscode, java, html, css, django, py, mysql, sqlite" />
+    <img src="https://skillicons.dev/icons?i=git,discord,figma,github,vscode,java,html,css,django,py,mysql,sqlite" />
   </a>
 </p>
 
