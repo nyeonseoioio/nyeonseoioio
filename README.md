@@ -1,24 +1,8 @@
-## Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=nyeonseoioio%20github&fontSize=90)
 
 
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white"/>
- 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeonseoioio&layout=compact)](https://github.com/nyeonseoioio/github-readme-stats)
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeonseoioio&layout=compact)](https://github.com/nyeonseoioio/github-readme-stats)
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
